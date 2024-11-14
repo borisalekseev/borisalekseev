@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-working at [OBOZ](https://oboz.com/)
+working at [ITS](https://inlinetelecom.ru/)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/664c5888bc68b74d9b142e67?)](https://roadmap.sh)
